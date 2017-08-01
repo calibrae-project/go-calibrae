@@ -20,6 +20,7 @@ The reason for this data structure is that a property registry grows at a predic
 
 - [What is DIV?](#what-is-div)
 - [Contents](#contents)
+- [Whitepaper](#whitepaper)
 - [Building](#building)
 - [🍄 SporeDB](#🍄-sporedb)
   - [Idea](#idea)
@@ -40,6 +41,10 @@ The reason for this data structure is that a property registry grows at a predic
 <!-- /TOC -->
 
 ---
+
+# Whitepaper
+
+View the whitepaper [here](https://stackedit.io/viewer#!url=https://raw.githubusercontent.com/steempunks/DIV/master/doc/DIV_Whitepaper.md) using the Stackedit viewer
 
 # Building
 
