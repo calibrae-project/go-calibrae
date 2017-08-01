@@ -1,3 +1,11 @@
+> ![](https://raw.githubusercontent.com/steempunks/div/master/assets/div_logo.svg.png) 
+> # The DIV Network
+> #### Monetising Governance, Infrastructure and Content 
+> ------------ for ------------
+> #### Decentralised Distributed Social Networks
+
+Built on a fork from SporeDB, Licenced under GPLv3 (as permitted via LGPL)
+
 # 🍄 SporeDB [![build status](https://gitlab.com/SporeDB/sporedb/badges/master/build.svg)](https://gitlab.com/SporeDB/sporedb/commits/master)
 
 SporeDB is a work-in-progress to a highly scalable, fast, resilient, decentralized and flexible database engine, named by analogy with the Mycology science.
