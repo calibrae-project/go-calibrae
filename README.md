@@ -1,12 +1,58 @@
 > ![](https://raw.githubusercontent.com/steempunks/div/master/assets/div_logo.svg.png) 
-> # The DIV Network
+> # DIV
 > #### Monetising Governance, Infrastructure and Content 
 > ------------ for ------------
 > #### Decentralised Distributed Social Networks
 
-Built on a fork from SporeDB, Licenced under GPLv3 (as permitted via LGPL)
+Built on a fork from SporeDB, Licenced under GPLv3 (as permitted via LGPL) See old SporeDB information after the horizontal rule
 
-# 🍄 SporeDB [![build status](https://gitlab.com/SporeDB/sporedb/badges/master/build.svg)](https://gitlab.com/SporeDB/sporedb/commits/master)
+# What is DIV?
+
+Div is a next generation, Byzantine Fault Tolerant Distributed Database Application Framework, built with a core called the DIV Kernel, consists of an interface to the Git repository of DIV itself, and a Reddit-style discussion forum, with appropriate reputation and reward systems, paid out as a means of distributing new tokens based on peer review. and weighted according to the amount of tokens locked into a deposit/vote contract that resembles a Stock in a public corporation.
+
+DIV is thus the first self-hosted, distributed database application framework. The governance of a distributed system is based on the code, first and foremost, though organised human activities can be accessory and facilitate the function of the network, such as acquiring banking licences, registering corporations in jurisdictions to liase with State actors, in general, *if necessary* though necessarily such connections must be agreed by the majority of users on the network, and link, necessarily, only to those invididuals in the jurisdiction who need to facilitate thte function (such as fiat gateways to enable exchanging the tokens for government regulated Legal Tender.
+
+The token used is not also a standard form double ledger, but models a coin currency, where there is multiple denominations and require change. As a means to facilitate and simplify payments, change is exchanged between accounts with zero transactions between them, and for this service, accounts are paid an issuance of a commission of new tokens as a part of a deposit contract. 
+
+The reason for this data structure is that a property registry grows at a predictable rate, not as strongly influenced by activity. The nodes that process transactions thus do not need to store more than a 3 previous owners in pruned short term logs, thus allowing rapid validation of the transactions.
+
+# Contents
+
+<!-- TOC -->
+
+- [What is DIV?](#what-is-div)
+- [Contents](#contents)
+- [Building](#building)
+- [🍄 SporeDB](#🍄-sporedb)
+  - [Idea](#idea)
+  - [Overview](#overview)
+  - [Installation](#installation)
+    - [With Go](#with-go)
+    - [Without Go (Docker)](#without-go-docker)
+    - [Build from source](#build-from-source)
+  - [Configuration](#configuration)
+    - [Writing main configuration file](#writing-main-configuration-file)
+    - [Setting-up crypto credentials](#setting-up-crypto-credentials)
+    - [Creating a policy](#creating-a-policy)
+  - [Usage](#usage)
+    - [Adding a systemd service](#adding-a-systemd-service)
+  - [Acknowledgements](#acknowledgements)
+  - [Implemented features](#implemented-features)
+
+<!-- /TOC -->
+
+---
+
+# Building
+
+Instructions on building will be outlined here.
+
+To acquire this and add it to your Go development environment, issue the following command:
+
+`go get github.com/steempunks/DIV`
+
+# 🍄 SporeDB 
+[![build status](https://gitlab.com/SporeDB/sporedb/badges/master/build.svg)](https://gitlab.com/SporeDB/sporedb/commits/master)
 
 SporeDB is a work-in-progress to a highly scalable, fast, resilient, decentralized and flexible database engine, named by analogy with the Mycology science.
 
