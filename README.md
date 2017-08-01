@@ -1,6 +1,6 @@
 > | ![](https://raw.githubusercontent.com/steempunks/div/master/assets/div_logo.svg.png) | <h1>DIV</h1>
 > | --- | ---
-> | Monetising Governance, Infrastructure and Content for  Decentralised Distributed Social Networks
+> | | Monetising Governance, Infrastructure and Content for  Decentralised Distributed Social Networks
 
 Built on a fork from SporeDB, Licenced under GPLv3 (as permitted via LGPL) See old SporeDB information after the horizontal rule
 
