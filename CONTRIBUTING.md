@@ -1,10 +1,5 @@
-## How to contribute to SporeDB?
+## How to contribute to DIV?
 
-This project is at a very early stage, don't expect the contributing process to be too twisted ;)
+Basically, make an issue, start a conversation, add code, change code, make pull and merge requests, do whatever you feel is necessary. Once DIV reaches alpha, it theoretically can become a replacement for Github itself, at that point making useful contributions could potentially earn you cryptographic tokens :) So it's in your interest to help us get there. 
 
-* Issues are a very good starting point: it shall represent the current work in progress at a given point in time, and work to be done;
-* Do not hesitate to submit Merge Requests for features proposal, and issues for bug reports;
-* **Vulnerability disclosures can be submitted with private issues on Gitlab.com**
-
-**Important note:** the whole development process is being done on Gitlab.com.
-The Github.com repository shall only be used as a read-only mirror.
+In order to get things moving as regards to rewarding contributors, at the point DIV lifts off out of Github and becomes its' own development management platform, all contributions, attributions, and all the rest, will be linked to DIV user accounts, and relevant rewards will be calculated and assigned according to the rules of the system. So, even though you are not earning anythting now, if you make it so you can, you will.
